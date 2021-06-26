@@ -1,0 +1,138 @@
+{
+    "dogs" :[
+      {
+        "breed": "Golden Retriever",
+        "age": "1 years",
+        "gender": "Male",
+        "description": "Samson is a playful one-year-old who is still perfecting basic commands. He loves treats and is a quick learner. An active family would be the best fit for Samson as he needs to go on a couple mile walk every day.",
+        "image": "https://www.thepaws.net/wp-content/uploads/2018/11/golden-retriever-dog-picture-10.jpg"
+      },
+      {
+        "breed": "Golden Retriever",
+        "age": "1 years",
+        "gender": "Male",
+        "description": "Samson is a playful one-year-old who is still perfecting basic commands. He loves treats and is a quick learner. An active family would be the best fit for Samson as he needs to go on a couple mile walk every day.",
+        "image": "https://www.thepaws.net/wp-content/uploads/2018/11/golden-retriever-dog-picture-10.jpg"
+      },
+      {
+        "breed": "Maltipoo",
+        "age":"2 years",
+        "gender": "male",
+        "description": "Ready to fall in love with Gordon? We sure hope so, because there’s never been a person who hasn’t! If you’re up for lots of playtime, lots of love and some training here and there, Gordon may just be the pup for you.",
+        "image": "https://i.pinimg.com/564x/e5/31/9c/e5319c2822879ceb2cef1e27f1ed9b7e.jpg"
+    },
+    {
+      "breed": "Bulldog",
+      "age":"4 years",
+      "gender": "male",
+      "description": "Ready to fall in love with Alfie? with Laughter, and a face everyone adores, “Loving” and “gentle” are words used to describe Bulldogs today.",
+      "image": "https://i.pinimg.com/564x/00/11/37/001137899e24ab45fe3e1ba494fac963.jpg"
+    }
+    ],
+    "birds" : [
+      {
+        "breed": "Caique",
+        "age": "4 years",
+        "gender": "female",
+        "description": "Caiques have been called clowns of the bird world for good reason — the clown is a truly appropriate metaphor for this high-energy, medium-sized mischief maker. You haven’t seen playful until you’ve seen a caique in action.",
+        "image": "https://lafeber.com/pet-birds/wp-content/uploads/2018/06/Caique-300x300.jpg"
+      },
+      {
+        "breed": "Canary ",
+        "age": "3 years",
+        "gender": "male",
+        "description": "They can be the perfect pet for someone in a quiet setting who would like a small feathered friend as a companion. While Canaries aren't really ,hands on, birds like budgies or cockatiels, they can be the perfect pet for someone who would like a smaller feathered friend for a companion.",
+        "image": "https://lafeber.com/pet-birds/wp-content/uploads/2018/06/Canary-300x300.jpg"
+      },
+      {
+        "breed": "blue-and-gold macaw",
+        "age": "6 years",
+        "gender": "female",
+        "description": "The blue-and-gold macaw is aptly named, with a gorgeous blue body and dark lemon-yellow chest, this is a bird that’s hard to miss. It also referred to as the blue-and-yellow macaw.",
+        "image": "https://lafeber.com/pet-birds/wp-content/uploads/2018/06/Blue-and-Gold-Macaw-300x300.jpg"
+      },
+      {
+        "breed": "Psittacula",
+        "age": "2 years",
+        "gender": "male",
+        "description": "Psittacula are primarily green, with long tail feathers, and a ring of dark colored feathering around the neck. Psittacula are referred to as parakeets, but they are much larger than what many people think of with the word “parakeet.”",
+        "image": "https://lafeber.com/pet-birds/wp-content/uploads/2018/06/Indian-Ring-Necked-Parakeet-300x300.jpg"
+      }
+    ],
+    "cats" : [
+      {
+        "breed": "American Bobtail",
+        "age": "3 months",
+        "gender": "female",
+        "description": "Hello! I am Niki. A cute little bobtail who is loving, affectionate and equally mischievous! I am bonded with my beautiful sister Wiki and would love to get adopted with her, together. I am just fine with other cats, gentle dogs and also little kids! I am happy in my own world, love playing with my rolling and string toys. I am a bit picky in what I eat but I love to eat, in general. I use my litterbox well, but I need it very clean. I have fun kitten energy and a whole lot of love to give. Can you open your heart for me?",
+        "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52116138/1/?bust=1624647271&width=1080"
+      },
+      {
+        "breed": "American Shorthair  ",
+        "age": "6 months",
+        "gender": "male",
+        "description": "decsrption:Oyster is one of mama Corals four kittens that were born on January 27, 2021. She is an unusual dilute tortise shell color. Oyster is a little shyer than her siblings, but she is an active, playful girl who is also skilled at climbing.",
+        "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51197520/6/?bust=1618294110&width=1080"
+      },
+      {
+        "breed": "Bombay",
+        "age": "3 years",
+        "gender": "female",
+        "description": "Samuel is about 3 years old. He is a very vocal cat, chatty and curious. He likes to explore and roam. Samuel does not like other cats and needs to be the only cat in the home. He really likes people but doesn't want to share his space with other felines. Samuel needs access outdoors to be happy. He is a mighty hunter and will bring you tokens of affection if allowed access outside. If you're looking for a chatty charmer, Samuel is the cat for you!",
+        "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51765397/1/?bust=1622659538&width=1080"
+      },
+      {
+        "breed": "Calico",
+        "age": "4 years",
+        "gender": "male",
+        "description": "Hello future family! My name is Mama and I am a very charming 4 year old female kitty. I like to attract attention and when they ignore me, I meow meow many times until someone hugs me. I get very happy about it! I love wet food and I do good with other cats. I am litter box trained as well. I can't wait to go home with you and be part of your family!”",
+        "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52091440/4/?bust=1624526818&width=1080"
+      },
+      {
+        "breed": "Tabby",
+        "age": "5 years",
+        "gender": "male",
+        "description": "Don the London is bashful. The way we adopt cats is absolutely against cat nature. Normally the cat would watch you and decide if you're a good fit. And then slowly move in and adopt you LOL! With us just placing a cat in an unknown situation quite a few cats get super anxious and decide to hide and observe the new place and family from relative safety.",
+        "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50640943/3/?bust=1614121304&width=1080"
+      },
+      {
+        "breed": "Shirazi ",
+        "age": "6 months ",
+        "gender": "male",
+        "description": "ikes to believe he's always on the hunt. long hair cat ”",
+        "image": "https://lafeber.com/pet-birds/wp-content/uploads/2018/06/Indian-Ring-Necked-Parakeet-300x300.jpg"
+      }
+    ],
+    "other" : [
+      {
+        "breed": "Lionhead Rabbit",
+        "age": "3 years",
+        "gender": "male",
+        "description": "Lionhead rabbits are well known for their affectionate and playful personalities. They enjoy lots of time outside of their cages to play with humans, making them great family pets that love to be picked up, held, and pet”",
+        "image": "https://www.hcaw-jordan.org/uploads/8/0/4/1/8041349/img-8832_orig.jpg"
+      },
+      {
+        "breed": "American-Lionhead Mixed",
+        "age": "7 years",
+        "gender": "Male",
+        "description": " Bobbie, aka Lion Man, is an absolute cutie. Though his picture doesn't capture it, Bobbie is a lion head who really looks like a little lion because of his beautiful color.",
+        "image": "https://s3.amazonaws.com/filestore.rescuegroups.org/6685/pictures/animals/10890/10890543/71755611_385x385.jpg"
+      },
+      {
+        "breed": "Dwarf Hybrid",
+        "age": "2 months",
+        "gender": "male",
+        "description": "Fatpouches seed mixes, have yet to try out other solid food with them. LOVES LOVES burrowing and being fat.”",
+        "image": "https://images.squarespace-cdn.com/content/v1/5c28e5b38f51304e8d700f89/1624205048627-UES3D0L8W23C90BJ3BZD/DSC06065.JPG?format=500w"
+      },
+      {
+        "breed": "Tortoise",
+        "age": "2 years",
+        "gender": "male",
+        "description": "Ready to fall in love with Donatello? Donatello tortoise, is an absolute cutie. Though his picture doesn't capture it",
+        "image": "https://i.pinimg.com/564x/6d/41/eb/6d41eb269761cc2aeebe2ad79c5317b1.jpg"
+      }
+    
+    ]
+    
+    }
