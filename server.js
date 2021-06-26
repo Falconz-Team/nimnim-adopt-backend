@@ -14,8 +14,11 @@ const updatePetController = require('./controller/updatePet.controller');
 
 
 const mongoose = require('mongoose');
-mongoose.connect(process.env.MANGO_URL,
+mongoose.connect(`${process.env.MONGO_URL}`,
   { useNewUrlParser: true, useUnifiedTopology: true });
+
+// const mongoose = require('mongoose');
+// mongoose.connect('mongodb://localhost:27017/pet', {useNewUrlParser: true, useUnifiedTopology: true});
 
 // a server endpoint 
 app.get('/', indexController);
