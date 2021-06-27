@@ -11,19 +11,21 @@ const petsDataController = require('./controller/petsData.controller');
 const cratePetController = require('./controller/createPet.controller');
 const deletePetController = require('./controller/deletePet.controller');
 const updatePetController = require('./controller/updatePet.controller');
+const petsRenderController = require('./controller/Render.controller');
 
-
-const mongoose = require('mongoose');
-mongoose.connect(`${process.env.MONGO_URL}`,
-  { useNewUrlParser: true, useUnifiedTopology: true });
 
 // const mongoose = require('mongoose');
-// mongoose.connect('mongodb://localhost:27017/pet', {useNewUrlParser: true, useUnifiedTopology: true});
+// mongoose.connect(`${process.env.MONGO_URL}`,
+//   { useNewUrlParser: true, useUnifiedTopology: true });
+
+const mongoose = require('mongoose');
+mongoose.connect('mongodb://localhost:27017/pet', {useNewUrlParser: true, useUnifiedTopology: true});
 
 // a server endpoint 
 app.get('/', indexController);
 
 app.get('/pets', petsDataController);
+app.get('/pet', petsRenderController);
 app.post('/pet', cratePetController);
 app.delete('/pet/:pet_idx', deletePetController);
 app.put('/pet/:pet_idx', updatePetController);
