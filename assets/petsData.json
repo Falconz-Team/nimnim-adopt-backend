@@ -1,11 +1,11 @@
 {
     "dogs" :[
       {
-        "breed": "Golden Retriever",
-        "age": "1 years",
+        "breed": "Boxer",
+        "age": "4 years",
         "gender": "Male",
-        "description": "Samson is a playful one-year-old who is still perfecting basic commands. He loves treats and is a quick learner. An active family would be the best fit for Samson as he needs to go on a couple mile walk every day.",
-        "image_Url": "https://www.thepaws.net/wp-content/uploads/2018/11/golden-retriever-dog-picture-10.jpg"
+        "description": "Tyson was adopted and returned due to some resource guarding and high prey drive. He has been at board and train for about 5 weeks and moved to our personal training facility today so we can get to know him better then he will move to a foster home. ",
+        "image_Url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48804113/3/?bust=1624828132&width=720"
       },
       {
         "breed": "Golden Retriever",
@@ -27,6 +27,20 @@
       "gender": "male",
       "description": "Ready to fall in love with Alfie? with Laughter, and a face everyone adores, “Loving” and “gentle” are words used to describe Bulldogs today.",
       "image_Url": "https://i.pinimg.com/564x/00/11/37/001137899e24ab45fe3e1ba494fac963.jpg"
+    },
+    {
+      "breed": " Shepherd",
+      "age":"3 years",
+      "gender": "male",
+      "description": "Hi there! Iam Keno! I am 42 pounds of pure love, joy and happiness I was with my previous owner since I was a WDR tiny pup, but darn it, he got a promotion that requires him to travel two weeks out of every month and he would hate to leave me alone, so i'm looking for a new forever home that's looking for a snuggle buddy.",
+      "image_Url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52094600/1/?bust=1624735999&width=720"
+    },
+    {
+      "breed": "Beagle ",
+      "age":"4 years",
+      "gender": "Female",
+      "description": "She was abandoned in rural Indiana, where she was found hungry with her bestie Bliss. They are a bonded pair who seem to have never known care or love.",
+      "image_Url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51718550/1/?bust=1622314534&width=720"
     }
     ],
     "birds" : [
@@ -57,6 +71,20 @@
         "gender": "male",
         "description": "Psittacula are primarily green, with long tail feathers, and a ring of dark colored feathering around the neck. Psittacula are referred to as parakeets, but they are much larger than what many people think of with the word “parakeet.”",
         "image_Url": "https://lafeber.com/pet-birds/wp-content/uploads/2018/06/Indian-Ring-Necked-Parakeet-300x300.jpg"
+      },
+      {
+        "breed": " Parakeet ",
+        "age": "2 years",
+        "gender": "male",
+        "description": "Fred and Willma are looking for their new forever home. They came to us together and get along wonderfully. They would love to find a home that can spend time getting used to humans and spending time eating fresh veggies and fruit and singing. ",
+        "image_Url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/49446088/1/?bust=1602617423&width=720"
+      },
+      {
+        "breed": "Parakeet",
+        "age": "1 years",
+        "gender": "male",
+        "description": "GOOD IN A HOME WITH Dogs”",
+        "image_Url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/51840412/1/?bust=1624724207&width=720"
       }
     ],
     "cats" : [
@@ -96,11 +124,11 @@
         "image_Url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50640943/3/?bust=1614121304&width=1080"
       },
       {
-        "breed": "Shirazi ",
+        "breed": "American Curl ",
         "age": "6 months ",
-        "gender": "male",
-        "description": "ikes to believe he's always on the hunt. long hair cat ”",
-        "image_Url": "https://lafeber.com/pet-birds/wp-content/uploads/2018/06/Indian-Ring-Necked-Parakeet-300x300.jpg"
+        "gender": "female",
+        "description": "The distinctive feature of the American Curl is their attractive, uniquely curled-back ears. Elegant, well balanced, moderately muscled, slender rather than massive in build.  They often appear well proportioned and balanced and can vary in size.",
+        "image_Url": "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/american-curl-detail.jpg?bust=1535566890&width=355"
       }
     ],
     "other" : [
@@ -131,6 +159,20 @@
         "gender": "male",
         "description": "Ready to fall in love with Donatello? Donatello tortoise, is an absolute cutie. Though his picture doesn't capture it",
         "image_Url": "https://i.pinimg.com/564x/6d/41/eb/6d41eb269761cc2aeebe2ad79c5317b1.jpg"
+      },
+      {
+        "breed": "Ducks",
+        "age": "1 years",
+        "gender": "Female ",
+        "description": "We have beautiful ducks for adoption from time to time. They are entertaining and fun to have around. If you have a secure pen with a pond / water to splash in and some love to give, we'd love to hear fromyou!",
+        "image_Url": "https://res.cloudinary.com/petrescue/image/upload/h_638,w_638,c_pad,q_auto:best,f_auto/v1572261852/pfaci4bjyqzwyt86pzsg.jpg"
+      },
+      {
+        "breed": "lambs",
+        "age": "13 weeks",
+        "gender": "Female ",
+        "description": "Very human friendly lambs. Marigold was hand raised from 2 days old and Percy after about 7 days following the death of his twin from a Fox attack when his mother rejected him.",
+        "image_Url": "https://res.cloudinary.com/petrescue/image/upload/h_638,w_638,c_pad,q_auto:best,f_auto/v1620277128/yjdtnhnlmy77y975yl7z.jpg"
       }
     
     ]
